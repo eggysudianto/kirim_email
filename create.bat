@@ -1,0 +1,1 @@
+C:\xampp\php\php.exe C:\xampp\htdocs\reminder\pengingat/kirim_email.php
